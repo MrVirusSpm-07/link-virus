@@ -3457,7 +3457,7 @@ echo "# gunakan dengan bijak gan salam MR VIRUS SPM #"
 # BY MR VIRUS SPM SILAHKAN DI RECORD GPP SUMPAH GPP IKHLAS:)
 # BY MR VIRUS SPM SILAHKAN DI RECORD GPP SUMPAH GPP IKHLAS:)
 echo "#                                             #"
-echo "# =>       https://bit.ly/3fX8ljZ          <= #"
+echo "# =>       https://bit.ly/3ild93L          <= #"
 # BY MR VIRUS SPM SILAHKAN DI RECORD GPP SUMPAH GPP IKHLAS:)
 # BY MR VIRUS SPM SILAHKAN DI RECORD GPP SUMPAH GPP IKHLAS:)
 # BY MR VIRUS SPM SILAHKAN DI RECORD GPP SUMPAH GPP IKHLAS:)
