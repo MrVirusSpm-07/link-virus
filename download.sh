@@ -12,6 +12,7 @@ yellow='\033[33;1m'
 
 clear
 sleep 2
+xdg-open https://youtube.com/channel/UCIEWrGcR1N4v4eIkVh3mX8Q
 echo $red" _     _       _      __     ___ "
 echo $red"| |   (_)_ __ | | __  \ \   / (_)_ __ _   _ ___ "
 echo $red"| |   | | '_ \| |/ /___\ \ / /| | '__| | | / __| "
